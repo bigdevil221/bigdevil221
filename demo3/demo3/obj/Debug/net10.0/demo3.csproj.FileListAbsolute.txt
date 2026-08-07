@@ -1,0 +1,15 @@
+D:\Desktop\课堂demo\demo3\demo3\bin\Debug\net10.0\demo3.exe
+D:\Desktop\课堂demo\demo3\demo3\bin\Debug\net10.0\demo3.deps.json
+D:\Desktop\课堂demo\demo3\demo3\bin\Debug\net10.0\demo3.runtimeconfig.json
+D:\Desktop\课堂demo\demo3\demo3\bin\Debug\net10.0\demo3.dll
+D:\Desktop\课堂demo\demo3\demo3\bin\Debug\net10.0\demo3.pdb
+D:\Desktop\课堂demo\demo3\demo3\obj\Debug\net10.0\demo3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\课堂demo\demo3\demo3\obj\Debug\net10.0\demo3.AssemblyInfoInputs.cache
+D:\Desktop\课堂demo\demo3\demo3\obj\Debug\net10.0\demo3.AssemblyInfo.cs
+D:\Desktop\课堂demo\demo3\demo3\obj\Debug\net10.0\demo3.csproj.CoreCompileInputs.cache
+D:\Desktop\课堂demo\demo3\demo3\obj\Debug\net10.0\demo3.sourcelink.json
+D:\Desktop\课堂demo\demo3\demo3\obj\Debug\net10.0\demo3.dll
+D:\Desktop\课堂demo\demo3\demo3\obj\Debug\net10.0\refint\demo3.dll
+D:\Desktop\课堂demo\demo3\demo3\obj\Debug\net10.0\demo3.pdb
+D:\Desktop\课堂demo\demo3\demo3\obj\Debug\net10.0\demo3.genruntimeconfig.cache
+D:\Desktop\课堂demo\demo3\demo3\obj\Debug\net10.0\ref\demo3.dll
