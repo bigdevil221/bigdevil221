@@ -1,0 +1,15 @@
+D:\Desktop\课堂demo\demo4\demo4\bin\Debug\net10.0\demo4.exe
+D:\Desktop\课堂demo\demo4\demo4\bin\Debug\net10.0\demo4.deps.json
+D:\Desktop\课堂demo\demo4\demo4\bin\Debug\net10.0\demo4.runtimeconfig.json
+D:\Desktop\课堂demo\demo4\demo4\bin\Debug\net10.0\demo4.dll
+D:\Desktop\课堂demo\demo4\demo4\bin\Debug\net10.0\demo4.pdb
+D:\Desktop\课堂demo\demo4\demo4\obj\Debug\net10.0\demo4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\课堂demo\demo4\demo4\obj\Debug\net10.0\demo4.AssemblyInfoInputs.cache
+D:\Desktop\课堂demo\demo4\demo4\obj\Debug\net10.0\demo4.AssemblyInfo.cs
+D:\Desktop\课堂demo\demo4\demo4\obj\Debug\net10.0\demo4.csproj.CoreCompileInputs.cache
+D:\Desktop\课堂demo\demo4\demo4\obj\Debug\net10.0\demo4.sourcelink.json
+D:\Desktop\课堂demo\demo4\demo4\obj\Debug\net10.0\demo4.dll
+D:\Desktop\课堂demo\demo4\demo4\obj\Debug\net10.0\refint\demo4.dll
+D:\Desktop\课堂demo\demo4\demo4\obj\Debug\net10.0\demo4.pdb
+D:\Desktop\课堂demo\demo4\demo4\obj\Debug\net10.0\demo4.genruntimeconfig.cache
+D:\Desktop\课堂demo\demo4\demo4\obj\Debug\net10.0\ref\demo4.dll
