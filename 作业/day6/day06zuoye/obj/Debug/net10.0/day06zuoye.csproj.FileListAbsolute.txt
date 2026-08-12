@@ -1,0 +1,15 @@
+D:\Desktop\课堂demo\day06zuoye\day06zuoye\bin\Debug\net10.0\day06zuoye.exe
+D:\Desktop\课堂demo\day06zuoye\day06zuoye\bin\Debug\net10.0\day06zuoye.deps.json
+D:\Desktop\课堂demo\day06zuoye\day06zuoye\bin\Debug\net10.0\day06zuoye.runtimeconfig.json
+D:\Desktop\课堂demo\day06zuoye\day06zuoye\bin\Debug\net10.0\day06zuoye.dll
+D:\Desktop\课堂demo\day06zuoye\day06zuoye\bin\Debug\net10.0\day06zuoye.pdb
+D:\Desktop\课堂demo\day06zuoye\day06zuoye\obj\Debug\net10.0\day06zuoye.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\课堂demo\day06zuoye\day06zuoye\obj\Debug\net10.0\day06zuoye.AssemblyInfoInputs.cache
+D:\Desktop\课堂demo\day06zuoye\day06zuoye\obj\Debug\net10.0\day06zuoye.AssemblyInfo.cs
+D:\Desktop\课堂demo\day06zuoye\day06zuoye\obj\Debug\net10.0\day06zuoye.csproj.CoreCompileInputs.cache
+D:\Desktop\课堂demo\day06zuoye\day06zuoye\obj\Debug\net10.0\day06zuoye.sourcelink.json
+D:\Desktop\课堂demo\day06zuoye\day06zuoye\obj\Debug\net10.0\day06zuoye.dll
+D:\Desktop\课堂demo\day06zuoye\day06zuoye\obj\Debug\net10.0\refint\day06zuoye.dll
+D:\Desktop\课堂demo\day06zuoye\day06zuoye\obj\Debug\net10.0\day06zuoye.pdb
+D:\Desktop\课堂demo\day06zuoye\day06zuoye\obj\Debug\net10.0\day06zuoye.genruntimeconfig.cache
+D:\Desktop\课堂demo\day06zuoye\day06zuoye\obj\Debug\net10.0\ref\day06zuoye.dll
