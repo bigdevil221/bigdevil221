@@ -1,0 +1,15 @@
+D:\Desktop\课堂demo\作业\day9\day9\bin\Debug\net10.0\day9.exe
+D:\Desktop\课堂demo\作业\day9\day9\bin\Debug\net10.0\day9.deps.json
+D:\Desktop\课堂demo\作业\day9\day9\bin\Debug\net10.0\day9.runtimeconfig.json
+D:\Desktop\课堂demo\作业\day9\day9\bin\Debug\net10.0\day9.dll
+D:\Desktop\课堂demo\作业\day9\day9\bin\Debug\net10.0\day9.pdb
+D:\Desktop\课堂demo\作业\day9\day9\obj\Debug\net10.0\day9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\课堂demo\作业\day9\day9\obj\Debug\net10.0\day9.AssemblyInfoInputs.cache
+D:\Desktop\课堂demo\作业\day9\day9\obj\Debug\net10.0\day9.AssemblyInfo.cs
+D:\Desktop\课堂demo\作业\day9\day9\obj\Debug\net10.0\day9.csproj.CoreCompileInputs.cache
+D:\Desktop\课堂demo\作业\day9\day9\obj\Debug\net10.0\day9.sourcelink.json
+D:\Desktop\课堂demo\作业\day9\day9\obj\Debug\net10.0\day9.dll
+D:\Desktop\课堂demo\作业\day9\day9\obj\Debug\net10.0\refint\day9.dll
+D:\Desktop\课堂demo\作业\day9\day9\obj\Debug\net10.0\day9.pdb
+D:\Desktop\课堂demo\作业\day9\day9\obj\Debug\net10.0\day9.genruntimeconfig.cache
+D:\Desktop\课堂demo\作业\day9\day9\obj\Debug\net10.0\ref\day9.dll
