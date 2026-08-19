@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\\u8BFE\u5802demo\\\u4F5C\u4E1A\\day10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7BA45B-7E29-7DA6-D775-71BB00021BF4}|day10\\day10.csproj|d:\\desktop\\\u8BFE\u5802demo\\\u4F5C\u4E1A\\day10\\day10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7BA45B-7E29-7DA6-D775-71BB00021BF4}|day10\\day10.csproj|solutionrelative:day10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 184,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\\u4F5C\u4E1A\\day10\\day10\\Program.cs",
+              "RelativeDocumentMoniker": "day10\\Program.cs",
+              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\\u4F5C\u4E1A\\day10\\day10\\Program.cs",
+              "RelativeToolTip": "day10\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T07:47:30.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

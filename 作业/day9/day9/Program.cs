@@ -57,17 +57,11 @@ namespace day9
             });
             Console.WriteLine(JsonSerializer.Serialize(res1));//序列化
             //FindLast: 要求查找年龄大于25的
-            var res2 = list.FindLast(item =>
-            {
-                return item["age"] > 25;
-            });
+            var res2 = list.FindLast(item =>item["age"] > 25);
             Console.WriteLine(JsonSerializer.Serialize(res2));
 
             // FindAll: 找出性别男的
-            var res3 = list.FindAll(item => 
-            {
-                return item["isMan"] = true;
-            });
+            var res3 = list.FindAll(item =>  item["isMan"] = true);
             foreach (var item in res3)
             {
                 Console.WriteLine($"男生姓名：{item["name"]}，");
@@ -81,20 +75,15 @@ namespace day9
             });
             Console.WriteLine(JsonSerializer.Serialize(res4));
             // FindLastIndex: 找出薪水小于3000 找最后一个满足条件的下标
-            var res5 = list.FindLastIndex(item =>
-            {
-                return item["salary"] < 3000;
-            });
+            var res5 = list.FindLastIndex(item => item["salary"] < 3000);
             Console.WriteLine(JsonSerializer.Serialize(res5));
 
             // Exists: 判断是否有薪水大于5000
-            bool res6 = list.Exists(item => {
-                return item["salary"] > 5000;
-            });
+            bool res6 = list.Exists(item => item["salary"] > 5000);
             Console.WriteLine(res6);
 
             // ForEach: 输出每个的 名字-年龄-薪水
-            //list.ForEach();
+            list.ForEach(item => Console.WriteLine($"{item["name"]}--{item["age"]}--{item["salary"]}"));
 
             // ConvertAll: 映射得到一个所以薪水的list
             List<Dictionary<string, dynamic>> newlist = list.ConvertAll(item => {

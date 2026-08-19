@@ -1,0 +1,26 @@
+[
+  {
+    "name": "\u4E09\u56FD\u6F14\u4E49",
+    "author": "\u7F57\u8D2F\u4E2D",
+    "isBorrow": false,
+    "id": 0.3534025599447578,
+    "mark": "\u6B66\u4FA0\u3001\u8A00\u60C5",
+    "price": 56.09
+  },
+  {
+    "name": "3",
+    "author": "3",
+    "isBorrow": false,
+    "id": 0.0873197427866883,
+    "mark": "3",
+    "price": 3
+  },
+  {
+    "name": "2",
+    "author": "2",
+    "isBorrow": false,
+    "id": 0.13914056249332474,
+    "mark": "2",
+    "price": 2
+  }
+]

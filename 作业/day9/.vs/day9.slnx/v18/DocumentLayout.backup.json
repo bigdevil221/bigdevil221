@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Desktop\\\u8BFE\u5802demo\\\u4F5C\u4E1A\\day9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEF6F660-6536-41E6-A990-0FBFDB840257}|day9\\day9.csproj|d:\\desktop\\\u8BFE\u5802demo\\\u4F5C\u4E1A\\day9\\day9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEF6F660-6536-41E6-A990-0FBFDB840257}|day9\\day9.csproj|solutionrelative:day9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6B49F9C-6693-8504-AB93-67119F9FEFC7}|day9\\day9.csproj|d:\\desktop\\\u8BFE\u5802demo\\\u4F5C\u4E1A\\day9\\day9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B49F9C-6693-8504-AB93-67119F9FEFC7}|day9\\day9.csproj|solutionrelative:day9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "day9\\Program.cs",
               "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\\u4F5C\u4E1A\\day9\\day9\\Program.cs",
               "RelativeToolTip": "day9\\Program.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAAwGAAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAwGsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-13T10:42:51.81Z",
               "EditorCaption": ""
