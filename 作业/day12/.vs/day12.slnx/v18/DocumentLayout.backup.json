@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Desktop\\\u8BFE\u5802demo\\\u4F5C\u4E1A\\day12\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6F4E91A2-7BAD-206D-BAD6-4A5318FC153C}|day12\\day12.csproj|d:\\desktop\\\u8BFE\u5802demo\\\u4F5C\u4E1A\\day12\\day12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4E91A2-7BAD-206D-BAD6-4A5318FC153C}|day12\\day12.csproj|solutionrelative:day12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6F4E91A2-7BAD-206D-BAD6-4A5318FC153C}|day12\\day12.csproj|d:\\desktop\\\u8BFE\u5802demo\\\u4F5C\u4E1A\\day12\\day12\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F4E91A2-7BAD-206D-BAD6-4A5318FC153C}|day12\\day12.csproj|solutionrelative:day12\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\\u8BFE\u5802demo\\\u4F5C\u4E1A\\day12\\day12\\bin\\Debug\\net10.0\\book.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:day12\\bin\\Debug\\net10.0\\book.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F4E91A2-7BAD-206D-BAD6-4A5318FC153C}|day12\\day12.csproj|d:\\desktop\\\u8BFE\u5802demo\\\u4F5C\u4E1A\\day12\\day12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F4E91A2-7BAD-206D-BAD6-4A5318FC153C}|day12\\day12.csproj|solutionrelative:day12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +22,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "book.json",
               "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\\u4F5C\u4E1A\\day12\\day12\\bin\\Debug\\net10.0\\book.json",
               "RelativeDocumentMoniker": "day12\\bin\\Debug\\net10.0\\book.json",
               "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\\u4F5C\u4E1A\\day12\\day12\\bin\\Debug\\net10.0\\book.json",
               "RelativeToolTip": "day12\\bin\\Debug\\net10.0\\book.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-08-19T10:42:17.075Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -44,26 +43,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BookManager.cs",
               "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\\u4F5C\u4E1A\\day12\\day12\\BookManager.cs",
               "RelativeDocumentMoniker": "day12\\BookManager.cs",
-              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\\u4F5C\u4E1A\\day12\\day12\\BookManager.cs*",
-              "RelativeToolTip": "day12\\BookManager.cs*",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAAAH8AAAARAAAAAAAAAA==",
+              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\\u4F5C\u4E1A\\day12\\day12\\BookManager.cs",
+              "RelativeToolTip": "day12\\BookManager.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAswH0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T10:47:47.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\\u4F5C\u4E1A\\day12\\day12\\Program.cs",
               "RelativeDocumentMoniker": "day12\\Program.cs",
               "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\\u4F5C\u4E1A\\day12\\day12\\Program.cs",
               "RelativeToolTip": "day12\\Program.cs",
-              "ViewState": "AgIAAGgAAAAAEhWqmwMmwHcAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T08:39:57.868Z",
               "EditorCaption": ""
