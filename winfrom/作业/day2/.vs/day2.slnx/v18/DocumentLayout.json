@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3026082A-40DD-4340-9082-C458D94BDB41}|day2\\day2.csproj|d:\\desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day2\\day2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3026082A-40DD-4340-9082-C458D94BDB41}|day2\\day2.csproj|solutionrelative:day2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day2\\day2\\Form3.cs",
+              "RelativeDocumentMoniker": "day2\\Form3.cs",
+              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day2\\day2\\Form3.cs",
+              "RelativeToolTip": "day2\\Form3.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIAxwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T12:22:58.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

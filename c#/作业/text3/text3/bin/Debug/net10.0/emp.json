@@ -1,0 +1,20 @@
+[
+  {
+    "Empld": 1,
+    "EmpName": "崔同学",
+    "Department": "视觉02",
+    "Salary": 10000
+  },
+  {
+    "Empld": 2,
+    "EmpName": "唐海波",
+    "Department": "视觉02",
+    "Salary": 12000
+  },
+  {
+    "Empld": 3,
+    "EmpName": "任东明",
+    "Department": "视觉02",
+    "Salary": 13000
+  }
+]
