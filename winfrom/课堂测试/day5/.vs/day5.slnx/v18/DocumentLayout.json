@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u8BFE\u5802\u6D4B\u8BD5\\day5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6E074-11B9-436D-9014-20C7C4AE41E4}|day5\\day5.csproj|d:\\desktop\\\u8BFE\u5802demo\\winfrom\\\u8BFE\u5802\u6D4B\u8BD5\\day5\\day5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF6E074-11B9-436D-9014-20C7C4AE41E4}|day5\\day5.csproj|solutionrelative:day5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF6E074-11B9-436D-9014-20C7C4AE41E4}|day5\\day5.csproj|d:\\desktop\\\u8BFE\u5802demo\\winfrom\\\u8BFE\u5802\u6D4B\u8BD5\\day5\\day5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAF6E074-11B9-436D-9014-20C7C4AE41E4}|day5\\day5.csproj|solutionrelative:day5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u8BFE\u5802\u6D4B\u8BD5\\day5\\day5\\Form1.cs",
+              "RelativeDocumentMoniker": "day5\\Form1.cs",
+              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u8BFE\u5802\u6D4B\u8BD5\\day5\\day5\\Form1.cs",
+              "RelativeToolTip": "day5\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T12:01:10.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u8BFE\u5802\u6D4B\u8BD5\\day5\\day5\\Form1.cs",
+              "RelativeDocumentMoniker": "day5\\Form1.cs",
+              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u8BFE\u5802\u6D4B\u8BD5\\day5\\day5\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "day5\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T11:55:17.566Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
