@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "8559802b-bb98-46e6-b1e4-0774a0de4bb0",
+    "Bookname": "西游记",
+    "Author": "吴承恩",
+    "Price": 34,
+    "Lab": "瓦达",
+    "isborrow": false
+  }
+]

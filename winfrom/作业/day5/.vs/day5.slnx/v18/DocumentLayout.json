@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48F18DC7-1E4A-4F11-B716-E13DD7C54448}|day5\\day5.csproj|d:\\desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day5\\day5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48F18DC7-1E4A-4F11-B716-E13DD7C54448}|day5\\day5.csproj|solutionrelative:day5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62AB3765-75FE-F50F-419D-7448EC8BC649}|day5\\day5.csproj|d:\\desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day5\\day5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AB3765-75FE-F50F-419D-7448EC8BC649}|day5\\day5.csproj|solutionrelative:day5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48F18DC7-1E4A-4F11-B716-E13DD7C54448}|day5\\day5.csproj|d:\\desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day5\\day5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{62AB3765-75FE-F50F-419D-7448EC8BC649}|day5\\day5.csproj|d:\\desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day5\\day5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AB3765-75FE-F50F-419D-7448EC8BC649}|day5\\day5.csproj|solutionrelative:day5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62AB3765-75FE-F50F-419D-7448EC8BC649}|day5\\day5.csproj|d:\\desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day5\\day5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62AB3765-75FE-F50F-419D-7448EC8BC649}|day5\\day5.csproj|solutionrelative:day5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F18DC7-1E4A-4F11-B716-E13DD7C54448}|day5\\day5.csproj|D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day5\\day5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{48F18DC7-1E4A-4F11-B716-E13DD7C54448}|day5\\day5.csproj|solutionrelative:day5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,12 +34,37 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day5\\day5\\Form1.cs",
               "RelativeDocumentMoniker": "day5\\Form1.cs",
-              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day5\\day5\\Form1.cs",
-              "RelativeToolTip": "day5\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day5\\day5\\Form1.cs*",
+              "RelativeToolTip": "day5\\Form1.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwCcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-28T10:55:31.993Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day5\\day5\\Form1.cs",
+              "RelativeDocumentMoniker": "day5\\Form1.cs",
+              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day5\\day5\\Form1.cs [\u8BBE\u8BA1]*",
+              "RelativeToolTip": "day5\\Form1.cs [\u8BBE\u8BA1]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T07:31:38.308Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day5\\day5\\Program.cs",
+              "RelativeDocumentMoniker": "day5\\Program.cs",
+              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day5\\day5\\Program.cs",
+              "RelativeToolTip": "day5\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvw4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T01:58:57.187Z",
               "EditorCaption": ""
             },
             {
@@ -40,15 +73,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day5\\day5\\Form1.cs",
               "RelativeDocumentMoniker": "day5\\Form1.cs",
               "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day5\\day5\\Form1.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "day5\\Form1.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T10:51:18.808Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2026-08-28T10:51:18.808Z"
             }
           ]
         }

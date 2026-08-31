@@ -16,7 +16,7 @@ namespace day5
                 ["橙色"] = Color.Orange,
                 ["黄色"] = Color.Yellow,
                 ["绿色"] = Color.Green,
-                ["青色"] = Color.Gray,
+                ["青色"] = Color.Cyan,
                 ["蓝色"] = Color.Blue,
                 ["紫色"] = Color.Purple,
             };
