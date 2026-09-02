@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "5a208c88-a995-4bdd-a7f8-0783fe3a5689",
+    "Bookname": "红楼梦",
+    "Author": "吴承恩",
+    "Price": 80,
+    "Lab": "爱情故事",
+    "isborrow": false
+  },
+  {
+    "Id": "3e622278-b24e-45d5-8097-245a07346416",
+    "Bookname": "西游记",
+    "Author": "吴承恩",
+    "Price": 38,
+    "Lab": "猴子大战神仙",
+    "isborrow": false
+  },
+  {
+    "Id": "babb637a-bf83-4879-ad56-047fe78bac48",
+    "Bookname": "三体",
+    "Author": "大刘",
+    "Price": 39,
+    "Lab": "三个太阳的故事",
+    "isborrow": false
+  }
+]

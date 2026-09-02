@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B49F9C-6693-8504-AB93-67119F9FEFC7}|day9\\day9.csproj|d:\\desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day9\\day9\\bookmanager\\addoredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B49F9C-6693-8504-AB93-67119F9FEFC7}|day9\\day9.csproj|solutionrelative:day9\\bookmanager\\addoredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B49F9C-6693-8504-AB93-67119F9FEFC7}|day9\\day9.csproj|d:\\desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day9\\day9\\bookmanager\\addoredit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B49F9C-6693-8504-AB93-67119F9FEFC7}|day9\\day9.csproj|solutionrelative:day9\\bookmanager\\addoredit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B49F9C-6693-8504-AB93-67119F9FEFC7}|day9\\day9.csproj|d:\\desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day9\\day9\\bookmanager\\addoredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6B49F9C-6693-8504-AB93-67119F9FEFC7}|day9\\day9.csproj|solutionrelative:day9\\bookmanager\\addoredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B49F9C-6693-8504-AB93-67119F9FEFC7}|day9\\day9.csproj|d:\\desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day9\\day9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B49F9C-6693-8504-AB93-67119F9FEFC7}|day9\\day9.csproj|solutionrelative:day9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B49F9C-6693-8504-AB93-67119F9FEFC7}|day9\\day9.csproj|d:\\desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day9\\day9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B49F9C-6693-8504-AB93-67119F9FEFC7}|day9\\day9.csproj|solutionrelative:day9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B49F9C-6693-8504-AB93-67119F9FEFC7}|day9\\day9.csproj|d:\\desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day9\\day9\\mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B49F9C-6693-8504-AB93-67119F9FEFC7}|day9\\day9.csproj|solutionrelative:day9\\mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B49F9C-6693-8504-AB93-67119F9FEFC7}|day9\\day9.csproj|d:\\desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day9\\day9\\bookmanager\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6B49F9C-6693-8504-AB93-67119F9FEFC7}|day9\\day9.csproj|solutionrelative:day9\\bookmanager\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B49F9C-6693-8504-AB93-67119F9FEFC7}|day9\\day9.csproj|d:\\desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day9\\day9\\bookmanager\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B49F9C-6693-8504-AB93-67119F9FEFC7}|day9\\day9.csproj|solutionrelative:day9\\bookmanager\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "addOrEdit.Designer.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day9\\day9\\BookManager\\addOrEdit.Designer.cs",
+              "RelativeDocumentMoniker": "day9\\BookManager\\addOrEdit.Designer.cs",
+              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day9\\day9\\BookManager\\addOrEdit.Designer.cs",
+              "RelativeToolTip": "day9\\BookManager\\addOrEdit.Designer.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAuwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T13:47:46.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "addOrEdit.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day9\\day9\\BookManager\\addOrEdit.cs",
+              "RelativeDocumentMoniker": "day9\\BookManager\\addOrEdit.cs",
+              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day9\\day9\\BookManager\\addOrEdit.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "day9\\BookManager\\addOrEdit.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T13:47:22.422Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "addOrEdit.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day9\\day9\\BookManager\\addOrEdit.cs",
+              "RelativeDocumentMoniker": "day9\\BookManager\\addOrEdit.cs",
+              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day9\\day9\\BookManager\\addOrEdit.cs",
+              "RelativeToolTip": "day9\\BookManager\\addOrEdit.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwCkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T13:06:41.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day9\\day9\\Program.cs",
+              "RelativeDocumentMoniker": "day9\\Program.cs",
+              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day9\\day9\\Program.cs",
+              "RelativeToolTip": "day9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T13:46:44.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MySql.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day9\\day9\\MySql.cs",
+              "RelativeDocumentMoniker": "day9\\MySql.cs",
+              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day9\\day9\\MySql.cs",
+              "RelativeToolTip": "day9\\MySql.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T09:16:09.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day9\\day9\\Form1.cs",
+              "RelativeDocumentMoniker": "day9\\Form1.cs",
+              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day9\\day9\\Form1.cs",
+              "RelativeToolTip": "day9\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T10:54:47.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bookmanager.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day9\\day9\\BookManager\\bookmanager.cs",
+              "RelativeDocumentMoniker": "day9\\BookManager\\bookmanager.cs",
+              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day9\\day9\\BookManager\\bookmanager.cs",
+              "RelativeToolTip": "day9\\BookManager\\bookmanager.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwEEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T12:27:34.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bookmanager.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day9\\day9\\BookManager\\bookmanager.cs",
+              "RelativeDocumentMoniker": "day9\\BookManager\\bookmanager.cs",
+              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day9\\day9\\BookManager\\bookmanager.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "day9\\BookManager\\bookmanager.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T12:27:33.51Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
