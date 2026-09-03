@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Text;
+using System.Windows.Forms;
+
+namespace day9.BookManager
+{
+    public partial class register : Form
+    {
+        public register()
+        {
+            InitializeComponent();
+        }
+
+    }
+}

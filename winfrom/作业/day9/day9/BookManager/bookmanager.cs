@@ -43,10 +43,10 @@ namespace day9.BookManager
                 new AntdUI.Column("name","书名"),
                 new AntdUI.Column("author","作者"),
                 new AntdUI.Column("price","价格"),
-                new AntdUI.Column("lable","标签"),
+                new AntdUI.Column("label","标签"),
                 new AntdUI.Column("is_borrow", "借阅")
                 {
-                    Render =(object val, object cel, int rowIndex)=>val.ToString()=="1"?"已借阅":"未借阅"
+                    Render =(object val, object cel, int rowIndex)=>val.ToString()=="1"?"未借阅":"已借阅"
                 },
             };
             var handercol = new AntdUI.Column("Edit", "修改")

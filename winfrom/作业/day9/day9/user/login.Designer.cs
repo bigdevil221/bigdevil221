@@ -106,6 +106,7 @@
             label5.Size = new Size(75, 23);
             label5.TabIndex = 5;
             label5.Text = "注册";
+            label5.Click += label5_Click;
             // 
             // login
             // 

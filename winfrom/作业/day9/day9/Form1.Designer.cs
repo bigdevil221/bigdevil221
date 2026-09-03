@@ -31,6 +31,8 @@
             label1 = new AntdUI.Label();
             button1 = new AntdUI.Button();
             button2 = new AntdUI.Button();
+            label2 = new AntdUI.Label();
+            label3 = new AntdUI.Label();
             SuspendLayout();
             // 
             // label1
@@ -63,11 +65,32 @@
             button2.TabIndex = 1;
             button2.Text = "车辆管理";
             // 
+            // label2
+            // 
+            label2.BackColor = SystemColors.Control;
+            label2.Font = new Font("Microsoft YaHei UI", 21.75F, FontStyle.Bold, GraphicsUnit.Point, 134);
+            label2.ForeColor = SystemColors.ActiveBorder;
+            label2.Location = new Point(239, 148);
+            label2.Name = "label2";
+            label2.Size = new Size(49, 23);
+            label2.TabIndex = 2;
+            label2.Text = "●";
+            // 
+            // label3
+            // 
+            label3.Location = new Point(269, 148);
+            label3.Name = "label3";
+            label3.Size = new Size(75, 32);
+            label3.TabIndex = 2;
+            label3.Text = "";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 17F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(795, 457);
+            Controls.Add(label3);
+            Controls.Add(label2);
             Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(label1);
@@ -82,5 +105,7 @@
         private AntdUI.Label label1;
         private AntdUI.Button button1;
         private AntdUI.Button button2;
+        private AntdUI.Label label2;
+        private AntdUI.Label label3;
     }
 }

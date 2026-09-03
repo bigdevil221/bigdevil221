@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace day9.BookManager
 {
@@ -25,7 +26,12 @@ namespace day9.BookManager
             this.title = title;
         }
         //图书修改界面
-        private async Task button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
+        {
+            addoredit();
+        }
+        //封装一下
+        public async Task addoredit()
         {
             string name = input1.Text;
             string author = input2.Text;
@@ -40,9 +46,9 @@ namespace day9.BookManager
                 cmd.Parameters.AddWithValue("@author", author);
                 cmd.Parameters.AddWithValue("@price", price);
                 cmd.Parameters.AddWithValue("@label", lab);
-                //if (title =="编辑")cmd.Parameters.AddWithValue("@id", id);
-                int rows=cmd.ExecuteNonQuery();
-                if (rows>0)
+                if (title == "编辑") cmd.Parameters.AddWithValue("@id", id);
+                int rows = cmd.ExecuteNonQuery();
+                if (rows > 0)
                 {
                     MessageBox.Show(this.title + "成功");
                     this.Close();
