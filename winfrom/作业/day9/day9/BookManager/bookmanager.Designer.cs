@@ -28,14 +28,16 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(bookmanager));
             button1 = new AntdUI.Button();
             table1 = new AntdUI.Table();
             SuspendLayout();
             // 
             // button1
             // 
+            button1.BackColor = Color.Blue;
             button1.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 134);
-            button1.Location = new Point(46, 80);
+            button1.Location = new Point(342, 349);
             button1.Name = "button1";
             button1.Size = new Size(133, 58);
             button1.TabIndex = 0;
@@ -44,10 +46,11 @@
             // 
             // table1
             // 
+            table1.BackColor = Color.BurlyWood;
             table1.Gap = 12;
-            table1.Location = new Point(185, 38);
+            table1.Location = new Point(90, 84);
             table1.Name = "table1";
-            table1.Size = new Size(603, 361);
+            table1.Size = new Size(646, 250);
             table1.TabIndex = 1;
             table1.Text = "table1";
             // 
@@ -55,6 +58,8 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 17F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(800, 450);
             Controls.Add(table1);
             Controls.Add(button1);

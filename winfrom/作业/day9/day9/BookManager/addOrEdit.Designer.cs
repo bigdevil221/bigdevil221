@@ -136,6 +136,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "addOrEdit";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "addOrEdit";
             ResumeLayout(false);
         }
