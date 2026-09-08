@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{6F4E91A2-7BAD-206D-BAD6-4A5318FC153C}|day12\\day12.csproj|solutionrelative:day12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F4E91A2-7BAD-206D-BAD6-4A5318FC153C}|day12\\day12.csproj|d:\\desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day12\\day12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6F4E91A2-7BAD-206D-BAD6-4A5318FC153C}|day12\\day12.csproj|D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day12\\day12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6F4E91A2-7BAD-206D-BAD6-4A5318FC153C}|day12\\day12.csproj|solutionrelative:day12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -46,8 +46,7 @@
               "RelativeToolTip": "day12\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T13:41:03.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T13:41:03.165Z"
             },
             {
               "$type": "Document",
@@ -58,8 +57,7 @@
               "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day12\\day12\\Form1.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "day12\\Form1.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T13:17:31.485Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2026-09-07T13:17:31.485Z"
             },
             {
               "$type": "Document",
