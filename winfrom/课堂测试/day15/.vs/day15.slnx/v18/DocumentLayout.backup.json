@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u8BFE\u5802\u6D4B\u8BD5\\day15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDAEC7F-2888-A7DB-FD47-676BC129DFA7}|day15\\day15.csproj|d:\\desktop\\\u8BFE\u5802demo\\winfrom\\\u8BFE\u5802\u6D4B\u8BD5\\day15\\day15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDAEC7F-2888-A7DB-FD47-676BC129DFA7}|day15\\day15.csproj|solutionrelative:day15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CA86A5-C3BD-4D80-B50A-410D6B8FD549}|day15\\day15.csproj|D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u8BFE\u5802\u6D4B\u8BD5\\day15\\day15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52CA86A5-C3BD-4D80-B50A-410D6B8FD549}|day15\\day15.csproj|solutionrelative:day15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDAEC7F-2888-A7DB-FD47-676BC129DFA7}|day15\\day15.csproj|d:\\desktop\\\u8BFE\u5802demo\\winfrom\\\u8BFE\u5802\u6D4B\u8BD5\\day15\\day15\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDAEC7F-2888-A7DB-FD47-676BC129DFA7}|day15\\day15.csproj|solutionrelative:day15\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 225,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u8BFE\u5802\u6D4B\u8BD5\\day15\\day15\\Form1.cs",
+              "RelativeDocumentMoniker": "day15\\Form1.cs",
+              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u8BFE\u5802\u6D4B\u8BD5\\day15\\day15\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "day15\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T12:06:11.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u8BFE\u5802\u6D4B\u8BD5\\day15\\day15\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "day15\\Form1.Designer.cs",
+              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u8BFE\u5802\u6D4B\u8BD5\\day15\\day15\\Form1.Designer.cs",
+              "RelativeToolTip": "day15\\Form1.Designer.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAASwDoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T12:05:31.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u8BFE\u5802\u6D4B\u8BD5\\day15\\day15\\Form1.cs",
+              "RelativeDocumentMoniker": "day15\\Form1.cs",
+              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u8BFE\u5802\u6D4B\u8BD5\\day15\\day15\\Form1.cs",
+              "RelativeToolTip": "day15\\Form1.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwC4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T11:36:56.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

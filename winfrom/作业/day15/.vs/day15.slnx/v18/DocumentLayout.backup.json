@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day15\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D6E6747-49F5-4FC6-B865-F8A9D54348CF}|day15\\day15.csproj|d:\\desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day15\\day15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D6E6747-49F5-4FC6-B865-F8A9D54348CF}|day15\\day15.csproj|solutionrelative:day15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D6E6747-49F5-4FC6-B865-F8A9D54348CF}|day15\\day15.csproj|d:\\desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day15\\day15\\temperaturegauge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D6E6747-49F5-4FC6-B865-F8A9D54348CF}|day15\\day15.csproj|solutionrelative:day15\\temperaturegauge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D6E6747-49F5-4FC6-B865-F8A9D54348CF}|day15\\day15.csproj|d:\\desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day15\\day15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9D6E6747-49F5-4FC6-B865-F8A9D54348CF}|day15\\day15.csproj|solutionrelative:day15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D6E6747-49F5-4FC6-B865-F8A9D54348CF}|day15\\day15.csproj|d:\\desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day15\\day15\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9D6E6747-49F5-4FC6-B865-F8A9D54348CF}|day15\\day15.csproj|solutionrelative:day15\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CDDAEC7F-2888-A7DB-FD47-676BC129DFA7}|day15\\day15.csproj|d:\\desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day15\\day15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDDAEC7F-2888-A7DB-FD47-676BC129DFA7}|day15\\day15.csproj|solutionrelative:day15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,51 +31,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day15\\day15\\Form1.cs",
-              "RelativeDocumentMoniker": "day15\\Form1.cs",
-              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day15\\day15\\Form1.cs*",
-              "RelativeToolTip": "day15\\Form1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-10T11:39:26.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TemperatureGauge.cs",
-              "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day15\\day15\\TemperatureGauge.cs",
-              "RelativeDocumentMoniker": "day15\\TemperatureGauge.cs",
-              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day15\\day15\\TemperatureGauge.cs",
-              "RelativeToolTip": "day15\\TemperatureGauge.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAIwAsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-10T11:36:43.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form2.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day15\\day15\\Form2.cs",
-              "RelativeDocumentMoniker": "day15\\Form2.cs",
-              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day15\\day15\\Form2.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "day15\\Form2.cs [\u8BBE\u8BA1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-10T11:21:24.933Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Form1.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day15\\day15\\Form1.cs",
               "RelativeDocumentMoniker": "day15\\Form1.cs",
-              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day15\\day15\\Form1.cs [\u8BBE\u8BA1]*",
-              "RelativeToolTip": "day15\\Form1.cs [\u8BBE\u8BA1]*",
+              "ToolTip": "D:\\Desktop\\\u8BFE\u5802demo\\winfrom\\\u4F5C\u4E1A\\day15\\day15\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "day15\\Form1.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-10T09:28:45.502Z",
+              "WhenOpened": "2026-09-11T01:47:35.984Z",
               "EditorCaption": " [\u8BBE\u8BA1]"
             }
           ]
